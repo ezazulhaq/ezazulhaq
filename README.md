@@ -3,7 +3,13 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66caffe192ec1a8a73410bf7?variant=dark)](https://roadmap.sh)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezazul Haq Abdul ========================================================================================================================================  Principal Consultant --------------------  Experienced Java Full Stack Web Application Developer. Worked on multiple projects of Healthcare, Banking and Financial Solutions. Skilled with Core Java, Angular, Spring boot, Jenkins CI/CD and Docker Containers with Orchestration tools like K8s with good insights of developing back-end with business logic for web-applications development using Angular with Agile methodology. Also have basic knowledge on cloud computing platforms like AWS, GCP and Digital Ocean.  * 🌍  I'm based in Mumbai, India * 🖥️  See my portfolio at [My portfolio](http://(s)://portfolio-ezaz.web.app) * ✉️  You can contact me at [ezazulhaq.it@gmail.com](mailto:ezazulhaq.it@gmail.com) * 🚀  I'm currently working on [Salah App](http://(s)://salah-app.vercel.app) * 🧠  I'm learning Angular * 🤝  I'm open to collaborating on Any new idea
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ezazul Haq Abdul ========================================================================================================================================  Principal Consultant --------------------  Experienced Java Full Stack Web Application Developer. Worked on multiple projects of Healthcare, Banking and Financial Solutions. Skilled with Core Java, Angular, Spring boot, Jenkins CI/CD and Docker Containers with Orchestration tools like K8s with good insights of developing back-end with business logic for web-applications development using Angular with Agile methodology. Also have basic knowledge on cloud computing platforms like AWS, GCP and Digital Ocean.  
+
+* 🌍  I'm based in Mumbai, India
+* 🖥️  See my portfolio at [My portfolio](http://(s)://portfolio-ezaz.web.app)
+* ✉️  You can contact me at [ezazulhaq.it@gmail.com](mailto:ezazulhaq.it@gmail.com)
+* 🚀  I'm currently working on [Salah App](http://(s)://salah-app.vercel.app)
+* 🧠  I'm learning Angular * 🤝  I'm open to collaborating on Any new idea
 
 ### Skills  
 
