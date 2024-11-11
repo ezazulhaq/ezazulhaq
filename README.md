@@ -10,7 +10,8 @@ Possesses strong knowledge in developing back-end business logic for web applica
 * 🖥️  See my portfolio at [My portfolio](http://(s)://portfolio-ezaz.web.app)
 * ✉️  You can contact me at [ezazulhaq.it@gmail.com](mailto:ezazulhaq.it@gmail.com)
 * 🚀  I'm currently working on [Salah App](http://(s)://salah-app.vercel.app)
-* 🧠  I'm learning Angular * 🤝  I'm open to collaborating on Any new idea
+* 🧠  I'm learning Angular
+* 🤝  I'm open to collaborating on Any new idea
 
 ### Skills  
 
