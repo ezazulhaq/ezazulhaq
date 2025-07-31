@@ -2,14 +2,14 @@
 
 ## Principal Consultant
 
-Experienced **Java Full Stack Web Application Developer** with expertise in Healthcare, Banking, and Financial Solutions. Skilled in Core Java, Angular, Spring Boot, Jenkins CI/CD, and Docker Containers with orchestration tools like Kubernetes (K8s). 
+Experienced **Java Full Stack Application Developer** with expertise in Healthcare, Banking, and Financial Solutions. Skilled in Core Java, Angular, Spring Boot, Jenkins CI/CD, and Docker Containers with orchestration tools like Kubernetes (K8s). 
 
 Possesses strong knowledge in developing back-end business logic for web applications and a front-end using Angular within Agile methodologies. Also has foundational knowledge of cloud computing platforms like **AWS**, **GCP**, and **Digital Ocean**.
 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [My portfolio](http://(s)://portfolio-ezaz.web.app)
 * ✉️  You can contact me at [ezazulhaq.it@gmail.com](mailto:ezazulhaq.it@gmail.com)
-* 🚀  I'm currently working on [Salah App](https://salah-app.vercel.app)
+* 🚀  I'm currently working on [Taqwa Tracker](https://thetaqwatracker.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Any new idea
 
