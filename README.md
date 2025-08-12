@@ -9,7 +9,7 @@ Possesses strong knowledge in developing back-end business logic for web applica
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [My portfolio](http://(s)://portfolio-ezaz.web.app)
 * ✉️  You can contact me at [ezazulhaq.it@gmail.com](mailto:ezazulhaq.it@gmail.com)
-* 🚀  I'm currently working on [Taqwa Tracker](https://thetaqwatracker.com)
+* 🚀  I'm currently working on [The Taqwa Tracker](https://thetaqwatracker.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on Any new idea
 
