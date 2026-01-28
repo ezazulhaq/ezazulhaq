@@ -23,8 +23,8 @@ Possesses strong knowledge in developing back-end business logic for web applica
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ezazulhaq"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ezazulhaq&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/ezazulhaq" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezazulhaq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ezazulhaq"><img src="./github-streak-stats.svg" alt="GitHub Streak Stats" /></a>
+<a href="https://github.com/ezazulhaq" align="left"><img src="./github-language-stats.svg" alt="Top Languages" /></a>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66caffe192ec1a8a73410bf7?variant=dark)](https://roadmap.sh)
 
