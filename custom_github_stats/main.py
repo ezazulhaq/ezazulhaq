@@ -8,7 +8,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate GitHub Stats SVGs")
     parser.add_argument("--username", required=True, help="GitHub Username")
     parser.add_argument("--token", required=True, help="GitHub Personal Access Token")
-    parser.add_argument("--output-dir", default=".", help="Directory to save the SVGs")
+    parser.add_argument("--output-dir", default="..", help="Directory to save the SVGs")
 
     args = parser.parse_args()
 
