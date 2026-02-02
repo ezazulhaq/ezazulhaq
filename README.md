@@ -2,7 +2,7 @@
 
 ## Principal Consultant
 
-Experienced **Java Full Stack Application Developer** with expertise in Healthcare, Banking, and Financial Solutions. Skilled in Core Java, Angular, Spring Boot, Jenkins CI/CD, and Docker Containers with orchestration tools like Kubernetes (K8s). 
+Experienced **Lead Technical Architect** with expertise in Healthcare, Banking, and Financial Solutions. Skilled in Core Java, Angular, Spring Boot, FastAPI, CI/CD, DevOps and Docker Containers with orchestration tools like Kubernetes (K8s). 
 
 Possesses strong knowledge in developing back-end business logic for web applications and a front-end using Angular within Agile methodologies. Also has foundational knowledge of cloud computing platforms like **AWS**, **GCP**, and **Digital Ocean**.
 
