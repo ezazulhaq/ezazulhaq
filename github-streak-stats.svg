@@ -17,7 +17,7 @@
 
       <g transform="translate(185, 35)">
         <text x="0" y="0" class="header">Total Contributions</text>
-        <text x="0" y="40" class="stat">1060</text>
+        <text x="0" y="40" class="stat">1051</text>
         <text x="0" y="60" class="label">commits</text>
       </g>
 
