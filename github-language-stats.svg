@@ -9,32 +9,32 @@
       
         <g transform="translate(25, 40)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">Jupyter Notebook</text>
-            <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">78.6%</text>
-            <rect x="0" y="20" width="117.87392388675862" height="8" rx="4" fill="#DA5B0B" />
+            <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">78.5%</text>
+            <rect x="0" y="20" width="117.77694871502547" height="8" rx="4" fill="#DA5B0B" />
         </g>
         
         <g transform="translate(25, 75)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">TypeScript</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">7.1%</text>
-            <rect x="0" y="20" width="10.702212308635188" height="8" rx="4" fill="#3178c6" />
+            <rect x="0" y="20" width="10.693407571825446" height="8" rx="4" fill="#3178c6" />
         </g>
         
         <g transform="translate(25, 110)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">HTML</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">6.9%</text>
-            <rect x="0" y="20" width="10.369077718875207" height="8" rx="4" fill="#e34c26" />
+            <rect x="0" y="20" width="10.360547052724918" height="8" rx="4" fill="#e34c26" />
         </g>
         
         <g transform="translate(25, 145)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">Python</text>
-            <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">3.5%</text>
-            <rect x="0" y="20" width="5.32167479430327" height="8" rx="4" fill="#3572A5" />
+            <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">3.6%</text>
+            <rect x="0" y="20" width="5.440702013982216" height="8" rx="4" fill="#3572A5" />
         </g>
         
         <g transform="translate(25, 180)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">JavaScript</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">1.2%</text>
-            <rect x="0" y="20" width="1.8413429480079926" height="8" rx="4" fill="#f1e05a" />
+            <rect x="0" y="20" width="1.8398280705633914" height="8" rx="4" fill="#f1e05a" />
         </g>
         
     </svg>
