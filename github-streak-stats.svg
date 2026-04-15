@@ -11,13 +11,13 @@
 
       <g transform="translate(25, 35)">
         <text x="0" y="0" class="header">Current Streak</text>
-        <text x="0" y="40" class="stat">17</text>
+        <text x="0" y="40" class="stat">18</text>
         <text x="0" y="60" class="label">days</text>
       </g>
 
       <g transform="translate(185, 35)">
         <text x="0" y="0" class="header">Total Contributions</text>
-        <text x="0" y="40" class="stat">1301</text>
+        <text x="0" y="40" class="stat">1310</text>
         <text x="0" y="60" class="label">commits</text>
       </g>
 
