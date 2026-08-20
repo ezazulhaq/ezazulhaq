@@ -16,13 +16,13 @@
         <g transform="translate(25, 75)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">TypeScript</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">13.0%</text>
-            <rect x="0" y="20" width="19.534487978010727" height="8" rx="4" fill="#3178c6" />
+            <rect x="0" y="20" width="19.534475406390204" height="8" rx="4" fill="#3178c6" />
         </g>
         
         <g transform="translate(25, 110)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">HTML</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">10.6%</text>
-            <rect x="0" y="20" width="15.87345607928368" height="8" rx="4" fill="#e34c26" />
+            <rect x="0" y="20" width="15.8734686509042" height="8" rx="4" fill="#e34c26" />
         </g>
         
         <g transform="translate(25, 145)">
