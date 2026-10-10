@@ -10,31 +10,31 @@
         <g transform="translate(25, 40)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">Jupyter Notebook</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">61.6%</text>
-            <rect x="0" y="20" width="92.41470599968147" height="8" rx="4" fill="#DA5B0B" />
+            <rect x="0" y="20" width="92.40955754847977" height="8" rx="4" fill="#DA5B0B" />
         </g>
         
         <g transform="translate(25, 75)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">TypeScript</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">12.9%</text>
-            <rect x="0" y="20" width="19.388962656871104" height="8" rx="4" fill="#3178c6" />
+            <rect x="0" y="20" width="19.396239037236004" height="8" rx="4" fill="#3178c6" />
         </g>
         
         <g transform="translate(25, 110)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">HTML</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">10.1%</text>
-            <rect x="0" y="20" width="15.19841096067908" height="8" rx="4" fill="#e34c26" />
+            <rect x="0" y="20" width="15.197564252611055" height="8" rx="4" fill="#e34c26" />
         </g>
         
         <g transform="translate(25, 145)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">Java</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">6.7%</text>
-            <rect x="0" y="20" width="10.01149660755597" height="8" rx="4" fill="#b07219" />
+            <rect x="0" y="20" width="10.010938864054191" height="8" rx="4" fill="#b07219" />
         </g>
         
         <g transform="translate(25, 180)">
             <text x="0" y="10" style="font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff;">JavaScript</text>
             <text x="220" y="10" style="font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af;">3.4%</text>
-            <rect x="0" y="20" width="5.032394008806767" height="8" rx="4" fill="#f1e05a" />
+            <rect x="0" y="20" width="5.032113652615598" height="8" rx="4" fill="#f1e05a" />
         </g>
         
     </svg>
